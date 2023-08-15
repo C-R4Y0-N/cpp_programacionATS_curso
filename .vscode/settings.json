@@ -61,5 +61,6 @@
     "utility": "cpp",
     "istream": "cpp",
     "ostream": "cpp"
-  }
+  },
+  "C_Cpp_Runner.useLinkTimeOptimization": false
 }
